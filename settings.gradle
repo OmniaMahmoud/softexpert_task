@@ -1,0 +1,2 @@
+rootProject.name='softexpert_task'
+include ':app'
